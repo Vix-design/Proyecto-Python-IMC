@@ -21,4 +21,4 @@ estatura = float(input("¿Cuál es tu estatura?"))
 imc = peso / estatura ** 2 
 
 print("Bienvenido a la calculadora de IMC")
-print(imc)
+print("Tu IMC es:", imc)
